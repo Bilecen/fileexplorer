@@ -12,5 +12,5 @@ namespace App\Http\Controllers\config\responseModel;
 
 class GenericResponseModel
 {
-
+    //deneme
 }
